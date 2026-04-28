@@ -1,0 +1,18 @@
+1) See 1.py
+
+2)
+
+    a) beta = 0, maybe value converges, but definetelly teleports infinitely
+
+        https://chatgpt.com/c/69ece419-bc38-83eb-8bf2-4e54d8e4d6b0
+
+        https://en.wikipedia.org/wiki/Random_surfing_model
+
+    b) beta = 1, never teleports out of spider traps, these will accumulate all the pagerank
+
+3/4 done
+
+
+
+
+    
